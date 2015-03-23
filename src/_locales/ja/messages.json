@@ -1,0 +1,12 @@
+{
+	"extName":
+	{
+		"message": "Nico Extend",
+		"description":"ext name"
+	},
+	"extDescription":
+	{
+		"message": "ニコ動画 Extend",
+		"description":"ext desc"
+	}
+}

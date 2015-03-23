@@ -1,0 +1,12 @@
+{
+	"extName":
+	{
+		"message": "Nico Extend",
+		"description":"擴充套件名稱"
+	},
+	"extDescription":
+	{
+		"message": "Nico Extend",
+		"description":"擴充套件描述"
+	}
+}
