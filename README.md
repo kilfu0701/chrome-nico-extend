@@ -1,2 +1,2 @@
 # chrome-nico-extend
-NicoNico Douga FireFox Add-On.
+NicoNico Douga Chrome Extension.
